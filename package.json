@@ -1,0 +1,44 @@
+{
+	"name": "figma-asset-extractor",
+	"version": "1.0.0",
+	"description": "Extract assets from a .fig file",
+	"type": "module",
+	"main": "index.js",
+	"bin": {
+		"figma-asset-extractor": "./index.js"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/StevenCrocker/figma-asset-extractor.git"
+	},
+	"keywords": [
+		"figma",
+		"assets",
+		"extractor",
+		"fig",
+		"design",
+		"tools",
+		"cli"
+	],
+	"author": "Steven Crocker",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/StevenCrocker/figma-asset-extractor/issues"
+	},
+	"homepage": "https://github.com/StevenCrocker/figma-asset-extractor#readme",
+	"engines": {
+		"node": ">=14.0.0"
+	},
+	"files": [
+		"index.js",
+		"README.md"
+	],
+	"dependencies": {
+		"adm-zip": "^0.5.16",
+		"file-type": "^21.0.0",
+		"sharp": "^0.34.3"
+	}
+}
