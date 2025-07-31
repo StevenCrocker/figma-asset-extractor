@@ -56,7 +56,7 @@ figma-asset-extractor my-design.fig --avif
 figma-asset-extractor my-design.fig --webp --quality 90
 ```
 
-### Resize images as you extract
+### Constrain image size as you extract
 
 ```bash
 figma-asset-extractor my-design.fig --max-width 800 --max-height 600
