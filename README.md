@@ -1,6 +1,7 @@
 # Figma Asset Extractor
 
 [![npm version](https://img.shields.io/npm/v/figma-asset-extractor.svg)](https://www.npmjs.com/package/figma-asset-extractor)
+[![Buy Me a Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow?logo=buy-me-a-coffee&style=flat)](https://buymeacoffee.com/scrocker)
 
 This is a command line tool (not a figma plugin) that is perfect for developers to easily extract all image assets from a .fig file locally. This outputs all assets individually in their original form, not as combined layers or groups.
 
