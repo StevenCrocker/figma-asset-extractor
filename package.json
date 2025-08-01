@@ -1,6 +1,6 @@
 {
 	"name": "figma-asset-extractor",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Command line tool to extract image assets from a .fig file",
 	"type": "module",
 	"main": "index.js",
