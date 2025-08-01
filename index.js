@@ -5,7 +5,6 @@ import { fileTypeFromBuffer } from 'file-type';
 import fs from 'fs';
 import path from 'path';
 import sharp from 'sharp';
-import unzipper from 'unzipper';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
